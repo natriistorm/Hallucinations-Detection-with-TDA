@@ -3,3 +3,4 @@
 2. Matplotlib (опционально)
 3. Classification.ipynb + diabetes.csv
 4. Knn.ipynb + iris.csv
+5. linaer_regression.ipynb + penguins.csv
