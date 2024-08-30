@@ -9,7 +9,10 @@
 # Соревнование на Kaggle
 
 Есть два соревнования на Kaggle:
- https://www.kaggle.com/competitions/ai-academy-logreg/overview - по классификации
+ [https://www.kaggle.com/competitions/ai-academy-logreg/overview](https://www.kaggle.com/t/1f4d54deab8649eab73bb3fb481f1847) - по классификации
+
+
+ 
  https://www.kaggle.com/competitions/ai-academy-linearreg/overview - по регрессии
 
 1. нужно зарегистироваться на самой платформе Kaggle
